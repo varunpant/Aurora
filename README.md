@@ -1,6 +1,6 @@
-[Aurora]
+[Aurora](https://github.com/varunpant/Aurora)
 =================
-Aurora is a Fun Android application whichi tracks users finger movement on the screen and draws a nice animated pattern.
+Aurora is a Fun Android application which tracks user finger movement on the screen and draws a nice animated pattern.
 
 
 Blog
