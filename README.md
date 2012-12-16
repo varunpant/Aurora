@@ -2,6 +2,7 @@
 =================
 Aurora is a Fun Android application which tracks user finger movement on the screen and draws a nice animated pattern.
 
+![Screen Shot](https://github.com/varunpant/Aurora/blob/master/aurora.png?raw=true "Screen Shot")
 
 Blog
 ----
